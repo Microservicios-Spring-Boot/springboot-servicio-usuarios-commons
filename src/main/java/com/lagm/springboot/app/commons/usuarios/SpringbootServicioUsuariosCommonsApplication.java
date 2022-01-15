@@ -1,4 +1,4 @@
-package com.lagm.springboot.app.usuarios.commons;
+package com.lagm.springboot.app.commons.usuarios;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.lagm.springboot.app.usuarios.commons.models.entity;
+package com.lagm.springboot.app.commons.usuarios.models.entity;
 
 import java.io.Serializable;
 import java.util.List;
